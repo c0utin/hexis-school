@@ -2,7 +2,7 @@
 
 &emsp; A história da moeda é uma narrativa fascinante que acompanha a evolução das sociedades humanas – do escambo, passando pelo uso de objetos de valor intrínseco (como conchas, gado e metais preciosos), até a invenção da moeda como meio de troca, unidade de conta e reserva de valor. Hoje, vivemos uma nova revolução: a blockchain, que propõe não apenas um novo tipo de moeda, mas uma transformação na maneira como entendemos e administramos a confiança nas transações.
 
-![piramide-moeda](./cripto-moeda/assets/piramide-moeda.png) 
+![piramide-moeda](./assets/piramide-moeda.png) 
 
 &emsp; A moeda é um instrumento econômico que cumpre funções essenciais para o funcionamento das sociedades modernas. Ela é definida por três funções principais:
   - Meio de troca: Facilita a comercialização de bens e serviços, superando as limitações do escambo – onde era necessário haver uma “dupla coincidência de vontades” entre as partes.
