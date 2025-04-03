@@ -15,7 +15,7 @@
 
 &emsp; O lançamento do Plano Real, embora tenha sido um marco na estabilização da economia, trouxe à tona outra faceta dos sistemas centralizados: a dependência exclusiva de decisões governamentais para manter o equilíbrio monetário. Embora o novo modelo tenha conseguido conter a inflação e restaurar a confiança na moeda, ele também mostrou que, quando o controle está concentrado em mãos de um único agente – no caso, o Estado – o sistema fica suscetível a erros, manipulações e crises decorrentes de escolhas políticas que nem sempre atendem aos interesses de todos. Essa conjuntura histórica ressalta a vulnerabilidade dos modelos centralizados e a necessidade de explorar alternativas que ofereçam maior resiliência e transparência.
 
-# Moeda descentralizada
+## Moeda descentralizada
 
 &emsp; É nesse contexto que a tecnologia blockchain desponta como uma solução revolucionária e descentralizada para os problemas enfrentados pelos sistemas tradicionais. Diferente das moedas emitidas e controladas por um único ente central, a blockchain distribui as informações em um livro-razão que é mantido e atualizado por milhares de computadores espalhados pelo mundo. Cada transação é verificada através de um mecanismo de consenso, o que elimina a necessidade de uma autoridade central para autorizar ou validar as operações financeiras. Essa estrutura descentralizada reduz drasticamente os riscos de manipulação e corrupção, promovendo um ambiente mais seguro e confiável para a realização de transações.
 
@@ -25,5 +25,5 @@
 
 ## Conclusão
 
-&emsp; É com esta pequena análise histórica que iniciamos nossa jornada, nada melhor do que justificar do porque estamos aqui, de acordo com o white paper de Satoshi Nakamoto o criado anônimo do Bitcoin, que se deu início a grande revolução dentro da computação e do mundo, muitas pessoas possuem esta visão retrógrada de blockchain sendo apenas um meio de transacionar, porém já fazem alguns anos que esta visão é equivocada, arrisco-me a dizer que blockchain enquanto ramo de computação seja um mundo quase infinito, o mundo ainda não está preparado para o “BOOM” da blockchain que está por vir.
+&emsp; É com esta pequena análise histórica que iniciamos nossa jornada, nada melhor do que justificar do porquê estamos aqui, conforme o white paper de Satoshi Nakamoto o criado anônimo do Bitcoin, que se deu início a grande revolução na computação e do mundo, muitas pessoas possuem esta visão retrógrada de blockchain sendo somente um meio de transacionar, porém, já faz alguns anos que esta visão é equivocada, arrisco-me a dizer que blockchain enquanto ramo de computação seja um mundo quase infinito, o mundo ainda não está preparado para o “BOOM” da blockchain que está por vir.
 
