@@ -25,5 +25,4 @@
 
 ## Conclusão
 
-&emsp; É com esta pequena análise histórica que iniciamos nossa jornada, nada melhor do que justificar do porquê estamos aqui, conforme o white paper de Satoshi Nakamoto o criado anônimo do Bitcoin, que se deu início a grande revolução na computação e do mundo, muitas pessoas possuem esta visão retrógrada de blockchain sendo somente um meio de transacionar, porém, já faz alguns anos que esta visão é equivocada, arrisco-me a dizer que blockchain enquanto ramo de computação seja um mundo quase infinito, o mundo ainda não está preparado para o “BOOM” da blockchain que está por vir.
-
+&emsp; Iniciamos nossa jornada com esta breve análise histórica, pois nada é mais apropriado do que compreender o motivo de estarmos aqui. Conforme descrito no white paper de Satoshi Nakamoto, o criador anônimo do Bitcoin, deu-se início a uma grande revolução na computação e no mundo. Muitos ainda enxergam a blockchain de forma limitada, apenas como um meio de transação, mas essa visão já está ultrapassada há anos. Arrisco-me a dizer que a blockchain, enquanto ramo da computação, representa um universo quase infinito de possibilidades. O mundo ainda não está preparado para o grande "BOOM" dessa tecnologia que se aproxima.
