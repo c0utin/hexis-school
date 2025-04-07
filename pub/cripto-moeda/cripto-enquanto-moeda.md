@@ -1,5 +1,4 @@
-# Porquê isso existe? Blockchain enquanto moeda
-
+# Por que isso existe? Blockchain enquanto moeda
 &emsp; A história da moeda é uma narrativa fascinante que acompanha a evolução das sociedades humanas – do escambo, passando pelo uso de objetos de valor intrínseco (como conchas, gado e metais preciosos), até a invenção da moeda como meio de troca, unidade de conta e reserva de valor. Hoje, vivemos uma nova revolução: a blockchain, que propõe não apenas um novo tipo de moeda, mas uma transformação na maneira como entendemos e administramos a confiança nas transações.
 
 ![piramide-moeda](./assets/piramide-moeda.png) 
